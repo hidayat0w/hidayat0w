@@ -89,6 +89,3 @@ desc name_table;
 
 ![image](https://user-images.githubusercontent.com/113582977/190357198-664d6d3c-dcd4-4fee-9af9-65cf12490e17.png)
 
-
-
-                                                           ## Selesai       
