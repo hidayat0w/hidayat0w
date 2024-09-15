@@ -1,11 +1,6 @@
-# Laporan Modul 1 dan 2 Praktek Basis Data
-#### Catatan : Saya membuat ini waktu saya tidak masuk sekolah karena sakit, dan saya tidak ingin ketinggalan praktek database pak veri
 
-#### Nama : Muhammad Rafi Hidayatulloh
-#### Kelas : XI RPL 2
-#### Absen : 07
 
->## MODUL 1
+>## MODUL 1 Cara melakukan instalasi XAMPP
 
 ### 1.Install Xampp terlebih dahulu
 
